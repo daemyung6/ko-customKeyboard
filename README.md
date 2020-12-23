@@ -1,7 +1,7 @@
 # ko-customKeyboard
 바닐라 javascript 한글 가상 키보드
 
-###설명
+# 설명
 키오스크 같이 input 눌렀을때 키보드가 지원되지 않을때 
 사용할려고 만들었습니다.
 
@@ -9,7 +9,7 @@
 를 사용했습니다. 짱멋집니다!
 
 
-###코드예시
+# 코드예시
 
 ```html
 <script src="./hangul.js" type="text/javascript"></script>
