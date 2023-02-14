@@ -1,5 +1,8 @@
 # ko-customKeyboard
-바닐라 javascript 한글 가상 키보드
+바닐라 javascript 한글 가상 키보드  
+
+### 적용 예시  
+[daemyung6.github.io/ko-keyboard/](daemyung6.github.io/ko-keyboard/)
 
 # 설명
 키오스크 같이 input 눌렀을때 키보드가 지원되지 않을때 
